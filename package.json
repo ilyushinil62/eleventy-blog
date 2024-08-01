@@ -1,7 +1,7 @@
 {
-  "name": "eleventy-blog",
+  "name": "tm's special hell",
   "version": "1.1.0",
-  "description": "An example blog site using Eleventy that covers fundamental functionality",
+  "description": "tm",
   "scripts": {
     "build": "npx eleventy",
     "serve": "npx eleventy --serve",
